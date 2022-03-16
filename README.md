@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Este tem como objetivo principal, praticar conhecimentos adquiridos em Bootstrap 5.
 
 A proposta inicial e clonar e fazer um redesign de um ecommerce de produtos de beleza chamado MAR'BIO.
@@ -9,4 +8,3 @@ Projeto em andamento 16/03/2022:
 
 site original:
 https://www.makbio.com.br/
->>>>>>> 2a1315b25163421487e0a0a0abc9613df43d3812
